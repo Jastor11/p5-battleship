@@ -1,13 +1,27 @@
-# p5.js Starter Template
+# P5 Battleship!
 
 ## Introduction
+![battleship board](board.png)
 
-Introduce the lab or topic here. Make sure the intro is fun and engaging!
-
+A-6? Miss. B-9? Miss. P-5? HIT! YOU SUNK MY BATTLESHIP!
 
 ## Description
 
-Describe what students should do. Be clear. Make sure that your objectives have a low thresshold but a high bar. They should be easy to start, but hard to finish.
+In this lab, you'll be practicing using the canvas coordinate system in p5 by placing round 'pegs' on the canvas as if you were playing Battleship. Your goal is to place the red pegs directly on the black holes in the battleships on the board.
+
+To get started, fork and clone this lab and open it up in Sublime Text. Open up index.html in your Browser.
+
+You'll be writing your peg guesses in the 'your-guess.js' file, inside the function called `placePins`. We've solved the first peg for you, see if you can add the rest!
+
+```javascript
+  ellipse(100, 65, 20, 20); //This is the first solved pin!
+```
+
+## Extensions!
+
++ See if you can figure out how to move the ships around and add new ships
++ Can you have each ship be a different color?
++ What if each of the pin-holes were a different shape?
 
 ## Resources
 
