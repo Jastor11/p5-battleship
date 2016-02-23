@@ -22,6 +22,7 @@ You'll be writing your peg guesses in the 'your-guess.js' file, inside the funct
 + See if you can figure out how to move the ships around and add new ships
 + Can you have each ship be a different color?
 + What if each of the pin-holes were a different shape?
++ What if the ships were moving?!?
 
 ## Resources
 
