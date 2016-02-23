@@ -1,7 +1,7 @@
 # P5 Battleship!
 
 ## Introduction
-![battleship board](board.png)
+![battleship board](./board.png)
 
 A-6? Miss. B-9? Miss. P-5? HIT! YOU SUNK MY BATTLESHIP!
 
